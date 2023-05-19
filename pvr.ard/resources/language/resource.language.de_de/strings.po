@@ -1,0 +1,181 @@
+# Kodi Media Center language file
+# Addon Name: PVR EON Client
+# Addon id: pvr.ard
+# Addon Provider: Pulse-Eight Ltd.
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de_de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "EON PVR Client"
+msgstr "EON PVR Client"
+
+msgctxt "Addon Description"
+msgid "PVR Client for HRTi platform which allows you to watch live HRT TV channels and listening HRT radio stations."
+msgstr ""
+
+msgctxt "Addon Disclaimer"
+msgid "Inofficial Addon - Use on own risk"
+msgstr "Inoffizielles Addon - Benutzung auf eigene Gefahr"
+
+#. Setting to set used stream username
+#: pvr.hrti/resources/settings.xml
+msgctxt "#30000"
+msgid "Username"
+msgstr "Benutzername"
+
+#. Setting to set used stream password
+#: pvr.hrti/resources/settings.xml
+msgctxt "#30001"
+msgid "Password"
+msgstr "Passwort"
+
+msgctxt "#30002"
+msgid "IP Address"
+msgstr "IP Adresse"
+
+msgctxt "#30003"
+msgid "Access Token"
+msgstr "Access Token"
+
+msgctxt "#30004"
+msgid "Device ID"
+msgstr "Geraete ID"
+
+msgctxt "#30005"
+msgid "Device Number"
+msgstr "Geraetenummer"
+
+msgctxt "#30006"
+msgid "Refresh Token"
+msgstr "Refresh Token"
+
+msgctxt "#30007"
+msgid "Subscriber ID"
+msgstr "Subscriber ID"
+
+msgctxt "#30008"
+msgid "Stream Key"
+msgstr "Stream Schluessel"
+
+msgctxt "#30009"
+msgid "Stream User"
+msgstr "Stream Nutzer"
+
+#. Settings category label
+#: pvr.hrti/resources/settings.xml
+msgctxt "#30014"
+msgid "Credentials"
+msgstr "Zugangsdaten"
+
+#. Settings group label
+#: pvr.hrti/resources/settings.xml
+msgctxt "#30015"
+msgid "ard.tv"
+msgstr "ard.tv"
+
+msgctxt "#30010"
+msgid "PVR client menu hook item (settings) called."
+msgstr ""
+
+msgctxt "#30011"
+msgid "PVR client menu hook item (all items) called"
+msgstr ""
+
+msgctxt "#30012"
+msgid "PVR client menu hook item (channels) called"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Hide not subscribed channels"
+msgstr "Nur abonnierte Sender anzeigen"
+
+msgctxt "#30021"
+msgid "Hide geoblocked channels"
+msgstr "Geo-blockierte Sender nicht anzeigen"
+
+msgctxt "#30022"
+msgid "Enable TV"
+msgstr "TV Sender anzeigen"
+
+msgctxt "#30023"
+msgid "Enable radio"
+msgstr "Radio Sender anzeigen"
+
+msgctxt "#30024"
+msgid "Use categories"
+msgstr "Provider Gruppen anzeigen"
+
+msgctxt "#30025"
+msgid "Channels & groups"
+msgstr "Sender und Gruppen"
+
+msgctxt "#30026"
+msgid "Channels"
+msgstr "Sender"
+
+msgctxt "#30027"
+msgid "Self Service Portal"
+msgstr "Self Service Portal"
+
+msgctxt "#30028"
+msgid "Self Service Access Token"
+msgstr "Self Service Access Token"
+
+msgctxt "#30029"
+msgid "Self Service Refresh Token"
+msgstr "Self Service Refresh Token"
+
+msgctxt "#30030"
+msgid "Self Service Identity"
+msgstr "Self Service Identity"
+
+msgctxt "#30031"
+msgid "Device Serial"
+msgstr "Geraeteseriennummer"
+
+msgctxt "#30032"
+msgid "Generic Access Token"
+msgstr "Generisches Access Token"
+
+msgctxt "#30033"
+msgid "First channel number"
+msgstr "Erste Sendernummer"
+
+msgctxt "#30034"
+msgid "Service Provider"
+msgstr "Service Provider"
+
+msgctxt "#30035"
+msgid "SBB"
+msgstr "SBB"
+
+msgctxt "#30036"
+msgid "Telemach"
+msgstr "Telemach"
+
+msgctxt "#30037"
+msgid "NetTV Plus"
+msgstr "NetTV Plus"
+
+msgctxt "#30038"
+msgid "Vivacom"
+msgstr "Vivacom"
+
+msgctxt "#30039"
+msgid "EON Hrvatska"
+msgstr "EON Hrvatska"
+
+msgctxt "#30040"
+msgid "Nova"
+msgstr "Nova"
